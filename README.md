@@ -1,2 +1,2 @@
 # ivy
-Ivy SDE Intern Assessment 2024
+Ivy Homes SDE Intern Assessment 2024
